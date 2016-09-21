@@ -1,0 +1,8 @@
+Fix statusbar for iOS 8
+
+- Apache Cordova Jira issue: https://issues.apache.org/jira/browse/CB-7549
+- Markmail / Google Group / StackOverflow reference:
+- IBM PMR: 93137,442,000
+- Worklight RTC work item number: APAR 111010
+- Full description: In iOS 8, when the app is launched in landscape mode,
+  the statusbar does not render correctly on an iPad or iPhone
